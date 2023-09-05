@@ -1,4 +1,4 @@
 # practice-github
 This is my first repository
 <br>
-Author-Pravat bhutia
+Author-Pravat bhutia(student)
